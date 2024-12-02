@@ -1,7 +1,7 @@
 first my line
 second my line
-third line
-fourth line
+third my line
+fourth my line
 fifth line
 sixth line
 seventh line
